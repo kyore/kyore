@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm <a href="#">Telmuun</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile~</h1>
+
 [![Telmuun's github stats](https://github-readme-stats.vercel.app/api?username=kyore&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
