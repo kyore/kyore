@@ -1,4 +1,6 @@
-<h2 align="center">Hello, I'm <a href="#">Telmuun</a>!</h2><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif">
+<p align="center">
+<h2>Hello, I'm <a href="#">Telmuun</a>!</h2><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif">
+ </p>
 <h2 align="center">Welcome to my GitHub profile~</h2>
 <hr>
 
