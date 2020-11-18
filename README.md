@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm <a href="#">Telmuun</a>!</h1>
+<h2 align="center">Hello, I'm <a href="#">Telmuun</a>!</h2><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif">
 <h2 align="center">Welcome to my GitHub profile~</h2>
 <hr>
 
