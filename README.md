@@ -1,7 +1,5 @@
-<p align="center">
-<h2>Hello, I'm <a href="#">Telmuun</a>!</h2><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif">
- </p>
-<h2 align="center">Welcome to my GitHub profile~</h2>
+<p align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif"></p>
+<h2 align="center">Hello, Welcome to my GitHub profile~</h2>
 <hr>
 
 [![Telmuun's github stats](https://github-readme-stats.vercel.app/api?username=kyore&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
